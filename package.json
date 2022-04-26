@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/yeshwanthpandeti.lwc-l2fraz5z-fork-l2frdby9",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 9M2Z29xlqhJBRw9cdtjz --open"
+  }
+}
